@@ -14,8 +14,8 @@ body {
 }
 
 .card {
-  width: 100px;
-  height: 100px;
+  width: 16rem;
+  height: 16rem;
   position: relative;
 
   transform-style: preserve-3d;
